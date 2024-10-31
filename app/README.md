@@ -27,7 +27,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture, with clean arc
 1. Clone the repository:
     ```bash
     git clone https://github.com/ahmedmada/baims-task.git
-    cd weather-app
+    cd baims-task
     ```
 
 2. Open the project in Android Studio.
